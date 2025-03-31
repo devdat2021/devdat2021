@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **devdat2021/devdat2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Devdat!
+Welcome to my GitHub profile.
+
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdat2021&show_icons=true&theme=dark)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devdat2021&theme=dark)
+
+## 🚀 Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=dark)
