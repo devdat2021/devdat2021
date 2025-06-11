@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Devdat!
+I'm currently a student doing engineering in Information Science from NMAMIT, Nitte.
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdat2021&show_icons=true&theme=dark)
