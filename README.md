@@ -45,3 +45,8 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devdat2021&theme=dark)
 ## 🚀 Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=dark)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=blue&style=flat" alt="visitor badge"/>
+</p>
