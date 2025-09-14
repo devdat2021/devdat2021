@@ -48,5 +48,5 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=blue&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=devdat2021&label=visitors&color=blue&style=flat" alt="visitor badge"/>
 </p>
