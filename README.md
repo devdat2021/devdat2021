@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Devdat!
-I'm currently a student doing engineering in Information Science from NMAMIT, Nitte.
+I'm currently a student doing engineering in Information Science from NMAMIT, Nitte. I enjoy building full-stack applications with Flutter and Python and am passionate about data science and machine learning
 ## 🚀 Tech Stack
 
 ### 💻 Languages  
@@ -31,8 +31,10 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-### 🗄️ Database  
+### 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📚 Currently Learning  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
