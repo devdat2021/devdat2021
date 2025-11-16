@@ -51,6 +51,12 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=dark)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devdat2021&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devdat2021&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devdat2021&label=visitors&color=blue&style=flat" alt="visitor badge"/>
 </p>
