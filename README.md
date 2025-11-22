@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Devdat!
 I'm currently a student doing engineering in Information Science from NMAMIT, Nitte. I enjoy building full-stack applications with Flutter and Python and am passionate about data science and machine learning
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Araan-Sheikh&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdat2021&theme=github_dark" alt="Profile Details" />
 </div>
 
 ## 🚀 Tech Stack
