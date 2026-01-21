@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Devdat!
+#  Hi, I'm Devdat!
 I'm currently a student doing engineering in Information Science from NMAMIT, Nitte. I enjoy building full-stack applications with Flutter and Python and am passionate about data science and machine learning
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdat2021&theme=github_dark" alt="Profile Details" />
 </div>
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,25 +43,21 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 
 ### 📚 Currently Learning  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-## 📊 My GitHub Stats
+## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdat2021&show_icons=true&theme=dark)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devdat2021&theme=dark)
-## 🚀 Top Languages Used
+##  GitHub Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=devdat2021&theme=dark&hide_border=false)
+## Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=dark)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devdat2021&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devdat2021&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
--->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devdat2021&label=visitors&color=blue&style=flat" alt="visitor badge"/>
 </p>
+
