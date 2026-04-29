@@ -1,19 +1,3 @@
-
-
-<!--
-**devdat2021/devdat2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #  Hi, I'm Devdat!
 I'm currently a student doing engineering in Information Science from NMAMIT, Nitte. I enjoy building full-stack applications with Flutter and Python and am passionate about data science and machine learning
 <div align="center">
@@ -63,7 +47,7 @@ I'm currently a student doing engineering in Information Science from NMAMIT, Ni
 ![GitHub Streak](https://streak-stats.demolab.com?user=devdat2021&theme=tokyonight&hide_border=true)
 
 ## 📌 Top Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdat2021&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devdat2021&label=visitors&color=blue&style=flat" alt="visitor badge"/>
